@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arnav-420
+- 👋 Hi, I’m Arnav Chauhan
 - 👀 I’m interested in Coding and learning new things
 - 🌱 I’m currently learning ... Java and dsa
 - 💞️ My skills  currently contains-C,C++,Virtual Intership  in AI Ml form AMAZON through AICTE,participated google cloud  study jam (google cloud Foundations).
